@@ -1,0 +1,3 @@
+﻿User-agent: *
+Allow: /
+Sitemap: https://eshvel2006.github.io/b.e_sloution-/sitemap.xml
